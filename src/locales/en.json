@@ -1,0 +1,26 @@
+{
+    "game": {
+        "title": "Racing Game",
+        "start": "Start Game",
+        "restart": "Play Again",
+        "speed": "Speed",
+        "gameOver": "Game Over!",
+        "time": "Your Time",
+        "score": "Score",
+        "car": "Car"
+    },
+    "result": {
+        "saveScore": "Save Score",
+        "viewLeaderboard": "View Leaderboard",
+        "scoreSaved": "Score has been saved to leaderboard!",
+        "scoreSaveFailed": "Failed to save score",
+        "scoreError": "Error saving score",
+        "userInfoIncomplete": "Cannot save score, user information is incomplete"
+    },
+    "controls": {
+        "up": "↑",
+        "down": "↓",
+        "left": "←",
+        "right": "→"
+    }
+}

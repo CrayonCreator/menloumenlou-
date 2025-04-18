@@ -1,0 +1,26 @@
+{
+    "game": {
+        "title": "赛车游戏",
+        "start": "开始游戏",
+        "restart": "再玩一次",
+        "speed": "速度",
+        "gameOver": "游戏结束!",
+        "time": "您的时间",
+        "score": "得分",
+        "car":"赛车"
+    },
+    "result": {
+        "saveScore": "保存分数",
+        "viewLeaderboard": "查看排行榜",
+        "scoreSaved": "分数已保存到排行榜！",
+        "scoreSaveFailed": "保存分数失败",
+        "scoreError": "保存分数时出错",
+        "userInfoIncomplete": "无法保存分数，用户信息不完整"
+    },
+    "controls": {
+        "up": "↑",
+        "down": "↓",
+        "left": "←",
+        "right": "→"
+    }
+}
